@@ -1,6 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 
+//Module Iteration Statements
+//Exercise 2 
+//Repo Name: ArraysAndListsProject
+
 namespace ArraysAndLists
 {
     class Program
